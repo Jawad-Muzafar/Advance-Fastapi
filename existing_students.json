@@ -47,5 +47,27 @@
         "course": "JAVA",
         "marks": 88,
         "email": "atharv@example.com"
+    },
+    "S010": {
+        "name": "Ali",
+        "age": 25,
+        "course": "OOP",
+        "marks": 50,
+        "email": "user@example.com",
+        "grade": "F"
+    },
+    "S011": {
+        "name": "Jawad",
+        "age": 19,
+        "course": "OOP",
+        "marks": 50,
+        "email": "Jawad@example.com"
+    },
+    "S012": {
+        "name": "Ali Bilal",
+        "age": 25,
+        "course": "Coal",
+        "marks": 50,
+        "email": "bilal@example.com"
     }
 }
