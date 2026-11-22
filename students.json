@@ -69,5 +69,12 @@
         "course": "Coal",
         "marks": 50,
         "email": "bilal@example.com"
+    },
+    "S011": {
+        "name": "Haseeb",
+        "age": 18,
+        "course": "DSA",
+        "email": "haseeb@example.com",
+        "marks": 70.0
     }
 }
